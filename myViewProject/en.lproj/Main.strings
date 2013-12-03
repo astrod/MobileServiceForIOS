@@ -1,0 +1,15 @@
+
+/* Class = "IBUILabel"; text = "ID"; ObjectID = "0pT-Ay-dm3"; */
+"0pT-Ay-dm3.text" = "ID";
+
+/* Class = "IBUILabel"; text = "Just Buy it"; ObjectID = "AtQ-WC-X5B"; */
+"AtQ-WC-X5B.text" = "Just Buy it";
+
+/* Class = "IBUINavigationItem"; title = "Login"; ObjectID = "Kfe-3H-ux3"; */
+"Kfe-3H-ux3.title" = "Login";
+
+/* Class = "IBUILabel"; text = "Buy everything       whatever you want"; ObjectID = "dDc-a8-Xag"; */
+"dDc-a8-Xag.text" = "Buy everything       whatever you want";
+
+/* Class = "IBUILabel"; text = "Password"; ObjectID = "lJ8-GT-mbi"; */
+"lJ8-GT-mbi.text" = "Password";
