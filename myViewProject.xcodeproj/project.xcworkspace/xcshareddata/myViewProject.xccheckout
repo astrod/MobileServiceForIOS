@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>87A948A3-2062-4180-9A48-25F67D773F00</string>
+	<key>IDESourceControlProjectName</key>
+	<string>myViewProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BD8FDBA2-C65D-4E20-A13B-C3132297CD85</key>
+		<string>https://github.com/astrod/MobileServiceForIOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>myViewProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BD8FDBA2-C65D-4E20-A13B-C3132297CD85</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/astrod/MobileServiceForIOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BD8FDBA2-C65D-4E20-A13B-C3132297CD85</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BD8FDBA2-C65D-4E20-A13B-C3132297CD85</string>
+			<key>IDESourceControlWCCName</key>
+			<string>myViewProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>

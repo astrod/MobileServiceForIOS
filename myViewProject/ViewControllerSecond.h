@@ -10,4 +10,10 @@
 
 @interface ViewControllerSecond : UIViewController
 
+@property (weak, nonatomic) IBOutlet UITextField *idField;
+@property (weak, nonatomic) IBOutlet UITextField *passwordField;
+- (IBAction)loginSubmit:(id)sender;
+
+
+
 @end
